@@ -1,0 +1,17 @@
+- HOW IT WORKS
+This brilliant idea was first showcased by Harald Haas from University of Edinburgh, UK, in his TED Global talk on VLC. He explained,” 
+Very simple, if the LED is on, you transmit a digital 1, if it’s off you transmit a 0. The LEDs can be switched on and off very quickly, 
+which gives nice opportunities for transmitting data. So what you require at all are some LEDs and a controller that code data into those LEDs. 
+We have to just vary the rate at which the LED’s flicker depending upon the data we want to encode. Further enhancements can be made in this method, 
+like using an array of LEDs for parallel data transmission, or using mixtures of red, green and blue LEDs to alter the light’s frequency with 
+each frequency encoding a different data channel. Such advancements promise a theoretical speed of 10 Gbps – meaning you can download a full high-definition 
+film in just 30 seconds. Simply awesome! But blazingly fast data rates and depleting bandwidths worldwide are not the only reasons that give this technology
+an upper hand. Since Li-Fi uses just the light, it can be used safely in aircrafts and hospitals that are prone to interference from radio waves. 
+This can even work underwater where Wi-Fi fails completely, thereby throwing open endless opportunities for military operations.
+
+- Reverse Engineering
+
+    In the case of reverse engineering Li-Fi is the technology which has just kept a step in the world of technology and even hardly some amount of people know about its features and capability.
+
+    At Present world this technology is used in NASA and Aircrafts. But in future we can use it anywhere like we can use in automated cars and signals to detect traffic and signals. Then we can use in school and even in public places. This would be safest and most secure. Wi-fi Works on Radio frequency so may be it is harmful for living beings. But here a beam of light can’t harm any body. 
+In future this is will be a best way of transfering wireless data.
