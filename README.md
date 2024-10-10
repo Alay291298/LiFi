@@ -15,3 +15,14 @@ INTRODUCTION
  4) VlC Is A Data Communication Medium, Which Uses The Visible Light Between 400 Thz (780 Nm) And 800 Thz (375 Nm) As Optical Carrier For Data Transmission.
 
  5) Light is inherently safe and can be used in places where radio frequency communication is often deemed problematic, such as in aircraft cabins or hospitals. So visible light communication not only has the potential to Solve the problem of lack of spectrum space, but can also enable novel application. The visible light spectrum is unused; it's not regulated, and can be used for communication at very high speeds.
+
+Users
+Aerospace Engineers
+Space Research Centers 
+Business Mans
+Employees
+Hackers
+Navy
+Aircraft
+
+As this space is given to write some happy scenario happened with this technology but as this technology is not even launched in the world so no one has used it yet. Therefore there is no bad or happy scene done with it this technology is entirely new so no one is aware of it.
